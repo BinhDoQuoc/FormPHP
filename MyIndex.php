@@ -13,6 +13,7 @@
             }
         }
      ?>
+        <h1>Demo 2</h1>
     <form method="post">
         <input type="radio" name="gender" value="male">Male<br>
         <input type="radio" name="gender" value="female">Female
