@@ -6,7 +6,7 @@
     </head>
     <body>
         <fieldset>
-            <legend>Enter user name and age</legend>
+            <legend>Enter user name and age2</legend>
             <form action="index.php" method="post">
                 Name <input autofocus type="text" name="txtName"/>
                 <br>
